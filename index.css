@@ -1,0 +1,28 @@
+#smaller-pic{
+    height: 750px;
+    width: 1330px;
+}
+#header-alignment{
+    float: right;
+   }
+
+.margin-section{
+    margin-left: 1180px;
+}
+.main-section{
+    text-align: center;
+    background-color: gray;
+}
+.text-aligne{
+    text-align: center;
+}
+.change-to-right{
+    text-align: right;
+}
+.change-to-left{
+    text-align: left;
+}
+#footer-alignment{
+    text-align: center;
+    background-color: silver;
+}
